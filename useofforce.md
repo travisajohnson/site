@@ -4,7 +4,11 @@ As [Beryl Lipton](https://www.muckrock.com/accounts/profile/beryllipton/) report
 
 The audit came at a tumultuous time for FDC. Florida's largest and most costly state agency  faced increasing public scrutiny throughout 2014 and 2015, specifically with regard to use of force, but other issues as well. Most notably, ongoing investigations by the [Miami Herald](http://www.miamiherald.com/news/special-reports/florida-prisons/) and other news organizations were published, exposing inmate abuse and corruption. The department's FY2014 Annual Report showed a near 100% increase in use of force incidents since 2007. 
 
-<iframe width="900" height="800" frameborder="0" scrolling="no" src="https://plot.ly/~tjohns76/49.embed"></iframe>
+<div>
+    <a href="https://plot.ly/~tjohns76/49/" target="_blank" title="Plot 49" style="display: block; text-align: center;"><img src="https://plot.ly/~tjohns76/49.png" alt="Plot 49" style="max-width: 100%;width: 600px;"  width="600" onerror="this.onerror=null;this.src='https://plot.ly/404.png';" /></a>
+    <script data-plotly="tjohns76:49"  src="https://plot.ly/embed.js" async></script>
+</div>
+
 
 Florida's conservative legislature was calling for sweeping reforms as a result, Director Harry Crews, who initiated the audit in 2014, resigned before the audit got started.
 
