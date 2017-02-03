@@ -6,7 +6,7 @@ The audit came at a tumultuous time for FDC. Florida's largest and most costly s
 
 <iframe width="900" height="800" frameborder="0" scrolling="no" src="https://plot.ly/~tjohns76/49.embed"></iframe>
 
-Florida's conservative legislature was calling for sweeping reforms as a result, Director Harry Crews, who initiated the audit in 2014, resigned before the audit got stared.
+Florida's conservative legislature was calling for sweeping reforms as a result, Director Harry Crews, who initiated the audit in 2014, resigned before the audit got started.
 
 One of the documents FDC produced in response to her request was a PowerPoint entitled [Use of Force Reduction Efforts](https://d3gn0r3afghep.cloudfront.net/foia_files/2015/09/28/UOF_Reduction_Efforts_2015_4rWtRSl.pdf), which described the Use of Force Advisory System as a way "to track and notify each Warden of a staff member who has been involved in 8 uses of force incidents within an 18 month period." It further detailed modifications to the system:
 
